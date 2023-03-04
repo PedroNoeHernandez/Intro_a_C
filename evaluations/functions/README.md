@@ -20,5 +20,5 @@ int main(){
 2) ¿Cuántos parámetros recibe la función "SumatoriaPares"?
 3) ¿Cuál es el objetivo de la variable "res"?
 4) ¿Cuántas veces se manda a llamar la función en la ejecución del programa?
-5) ¿Por qué el "if else" funciona si no tienen ```{}````?
+5) ¿Por qué el "if else" funciona si no tienen ```{}```?
 6) Explique cómo es que funciona el código para devolver la sumatoria
