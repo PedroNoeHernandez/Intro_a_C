@@ -1,6 +1,6 @@
 # Laboratorio 3
 
-1) ejecute el siguiente código, analice y responda las preguntas 2, 3 4 ,5 y 6
+1) ejecute el siguiente código, analice y responda las preguntas 2, 3, 4 ,5 y 6
 ```C
 #include <stdio.h>
 #include <stdlib.h>
