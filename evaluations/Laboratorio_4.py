@@ -57,10 +57,9 @@ if __name__ == "__main__":
 #---------------------INSTRUCCIONES-----------------------
 #explique: 
 #      1. ¿Qué es lo que hace el código en un comentario antes de modificarlo?
-#      2. ¿Para qué sirve la función fflush?
-#      3. ¿Cuál es la sintaxis de un while?
-#      4. ¿Exite swhitch en python?
+#      2. ¿Cuál es la sintaxis de un while?
+#      3. ¿Exite swhitch en python?
 #      4. ¿Qué es un elif?
-#      4. ¿Qué función de se ejecuta al correr el script?
+#      5. ¿Qué función de se ejecuta al correr el script?
 #Modifique el siguien código para que mande a llamar la función suma, resta, multiplicación y división y agregue un mecanismo para preguntar si se deasea volver al menú principal.
 #Guarde y suba su código a un repositorio.
